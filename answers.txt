@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: Git is immensely useful for organization and communication between 
+machines as well as people. There are also many options that help reduce 
+errors or mistakes with the use of branches. I used git during my internship 
+last summer, and saw how valuable the real life applications are. 
