@@ -4,3 +4,12 @@ Answer: Git is immensely useful for organization and communication between
 machines as well as people. There are also many options that help reduce 
 errors or mistakes with the use of branches. I used git during my internship 
 last summer, and saw how valuable the real life applications are. 
+
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: Data science could be and is applied to virtually every field. A 
+field in which it could continue to be applied is the healthcare field. 
+Having more accurate data about patients should allow for faster 
+improvement of care.  
+
