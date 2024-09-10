@@ -13,3 +13,23 @@ field in which it could continue to be applied is the healthcare field.
 Having more accurate data about patients should allow for faster 
 improvement of care.  
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging creates a merge commit that combines two branches' 
+histories, preserving all previous commits. Rebasing, however, moves or 
+rewrites commits from one branch onto another, creating a linear history. 
+You should use merging to preserve full context and rebasing to streamline 
+the commit history without merge commits.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Simply, in this course I am aiming to improve my means of data 
+collection, understand how to better interpret large pools of data, and 
+then lastly how I can use the conclusions drawn from data in order to 
+solve problems. 
+
+
+
+
+
+
